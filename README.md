@@ -1,7 +1,7 @@
 # github-test
 GitHub test for Quire workshop
 
-#Foreword
+# Foreword
 
 In the fall of 2016, the Nasher Sculpture Center announced an open call for graduate papers addressing themes within the work of the 2017 Nasher Prize Laureate Pierre Huyghe, for the inaugural Nasher Prize Graduate Symposium. One of the chief aims of the Nasher Prize is to further scholarship on contemporary sculpture, both through a careful look at the work of each laureate, as well as through conversations held around the world about sculptural practice in general, in all the various ways it is currently manifest— from objects to installations to video and sound, and much more, and the Graduate Symposium is a major way we hope to do that. Hosting this inaugural symposium on the dynamic work of French artist Pierre Huyghe seems entirely appropriate, since there is much to explore and unpack within his exciting oeuvre, which encompasses a variety of materials and disciplines, bringing music, cinema, dance, and theater into contact with biology and philosophy, and incorporating time-based elements.
 
